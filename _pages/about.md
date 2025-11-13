@@ -100,5 +100,3 @@ Penglin Dai*, Hao Zhou, **Quanmin Wei**, Xiao Wu, Zhanbo Sun, Zhaofei Yu
 
 [**Paper**](https://www.sciencedirect.com/science/article/pii/S0020025522016073)
 </div>
-
-
