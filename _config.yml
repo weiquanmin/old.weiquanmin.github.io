@@ -9,7 +9,7 @@
 title                    : "Quanmin Wei (韦全敏) | Southwest Jiaotong University"
 description              : "Southwest Jiaotong University"
 repository               : "weiquanmin/weiquanmin.github.io"
-google_scholar_stats_use_cdn : true
+google_scholar_stats_use_cdn : false
 
 # google analytics
 google_analytics_id      : G-KB5DZEKWRD # get google_analytics_id from https://analytics.google.com/analytics/
