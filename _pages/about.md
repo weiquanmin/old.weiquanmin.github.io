@@ -17,42 +17,76 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am a Ph.D. student at Southwest Jiaotong University.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I have published several papers in top-tier conferences and journals, including the AAAI 2026, AAAI 2025, NeurIPS 2025, TITS, INS etc.
+
+Please feel free to send me an email if you are interested in discussing or working together. My email is wqm@my.swjtu.edu.cn.
+
+My research interests are primarily focused on several cutting-edge areas, including:
+
+- **Autonomous Driving**: topics related to Collaborative Perception, and Cooperative Driving Automation
+- **Computer Vision**: topics related to 3D Object Detection
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.11*: &nbsp;🎉🎉 1 paper about collaborative perception is accepted to AAAI 2026.
+- *2025.09*: &nbsp;🎉🎉 1 paper about collaborative perception is accepted to NeurIPS 2025.
+- *2025.09*: &nbsp;🎉🎉 1 paper about collaborative perception is accepted to IEEE Transactions on Intelligent Transportation Systems (TITS).
+- *2024.11*: &nbsp;🎉🎉 1 paper about collaborative perception is accepted to AAAI 2025.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/teaser_infocom.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[InfoCom: Kilobyte-Scale Communication-Efficient Collaborative Perception with Information Bottleneck](https://arxiv.org/pdf/?)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Quanmin Wei**, Penglin Dai*, Wei Li, Bingyi Liu, Xiao Wu
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+*AAAI Conference on Artificial Intelligence (AAAI 2026)*
+
+[**Code**](https://github.com/fengxueguiren/InfoCom)|[**Homepage**](https://weiquanmin.github.io/infocom)|[**Paper**](https://arxiv.org/pdf/?)
 </div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeruIPS 2025</div><img src='images/teaser_gencomm.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Pragmatic Heterogeneous Collaborative Perception via Generative Communication Mechanism](https://arxiv.org/pdf/2510.19618)
+
+Junfei Zhou, Penglin Dai*, **Quanmin Wei**, Bingyi Liu, Xiao Wu, Jianping Wang
+
+*Conference on Neural Information Processing Systems (NeruIPS 2025)*
+
+[**Code**](https://github.com/jeffreychou777/GenComm)|[**Homepage**](https://jeffreychou777.github.io/GenComm/)|[**Paper**](https://arxiv.org/pdf/2510.19618)
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TITS</div><img src='images/framework_mgmp.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[Cooperative Perception of Multi-Agents under the Spatio-Temporal Drift Issue]([https://arxiv.org/pdf/?](https://ieeexplore.ieee.org/document/11224917))
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+Penglin Dai*, Hao Zhou, **Quanmin Wei**, Xiao Wu, Zhanbo Sun, Zhaofei Yu
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+*IEEE Transactions on Intelligent Transportation Systems (TITS)*
+
+[**Paper**](https://ieeexplore.ieee.org/document/11224917)
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/teaser_copeft.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[CoPEFT: Fast Adaptation Framework for Multi-Agent Collaborative Perception with Parameter-Efficient Fine-Tuning](https://ojs.aaai.org/index.php/AAAI/article/download/34502/36657)
+
+**Quanmin Wei**, Penglin Dai*, Wei Li, Bingyi Liu, Xiao Wu
+
+*AAAI Conference on Artificial Intelligence (AAAI 2025)*
+
+[**Code**](https://github.com/fengxueguiren/CoPEFT)|[**Paper**](https://ojs.aaai.org/index.php/AAAI/article/download/34502/36657)
+</div>
+
+
+- [AIC-GNN: Adversarial Information Completion for Graph Neural Networks](https://www.sciencedirect.com/science/article/pii/S0020025522016073), **Quanmin Wei**, Jinyan Wang*, Xingcheng Fu, Jun Hu, Xianxian Li*, *Information Sciences (INS)*
