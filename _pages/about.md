@@ -66,7 +66,7 @@ Junfei Zhou, Penglin Dai*, **Quanmin Wei**, Bingyi Liu, Xiao Wu, Jianping Wang
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TITS</div><img src='images/framework_mgmp.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Cooperative Perception of Multi-Agents under the Spatio-Temporal Drift Issue]([https://arxiv.org/pdf/?](https://ieeexplore.ieee.org/document/11224917))
+[Cooperative Perception of Multi-Agents under the Spatio-Temporal Drift Issue](https://ieeexplore.ieee.org/document/11224917)
 
 Penglin Dai*, Hao Zhou, **Quanmin Wei**, Xiao Wu, Zhanbo Sun, Zhaofei Yu
 
