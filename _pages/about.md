@@ -89,7 +89,7 @@ Penglin Dai*, Hao Zhou, **Quanmin Wei**, Xiao Wu, Zhanbo Sun, Zhaofei Yu
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INS</div><img src='images/framework_aic-gnn.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INS</div><img src='images/framework_aic-gnn.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [AIC-GNN: Adversarial Information Completion for Graph Neural Networks](https://www.sciencedirect.com/science/article/pii/S0020025522016073)
